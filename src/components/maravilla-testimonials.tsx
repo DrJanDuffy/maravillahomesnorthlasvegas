@@ -57,7 +57,7 @@ const testimonials: Testimonial[] = [
     verified: true,
     homeType: "Single-Story Villa",
     moveInDate: "December 2024",
-    features: ["Pool Access", "Fitness Center", "Smart Home", "Energy Efficient"]
+    features: ["Waves Access", "Fitness Center", "Smart Home", "Energy Efficient"]
   },
   {
     id: "2",

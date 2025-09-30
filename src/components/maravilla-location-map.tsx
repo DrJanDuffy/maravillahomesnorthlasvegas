@@ -25,7 +25,7 @@ import {
   Shield,
   Wifi,
   Dumbbell,
-  Pool,
+  Waves,
   Gamepad2
 } from "lucide-react"
 
@@ -123,12 +123,12 @@ const nearbyLocations: LocationFeature[] = [
 const communityAmenities: CommunityAmenity[] = [
   {
     id: "1",
-    name: "Resort-Style Pool Complex",
+    name: "Resort-Style Waves Complex",
     description: "Olympic-sized pool with cabanas, poolside bar, and kids splash zone",
-    icon: Pool,
+    icon: Waves,
     status: "open",
     hours: "6 AM - 10 PM",
-    features: ["Olympic Pool", "Kids Splash Zone", "Poolside Bar", "Cabanas", "Lifeguards"]
+    features: ["Olympic Waves", "Kids Splash Zone", "Wavesside Bar", "Cabanas", "Lifeguards"]
   },
   {
     id: "2",

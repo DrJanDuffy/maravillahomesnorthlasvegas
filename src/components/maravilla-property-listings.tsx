@@ -64,7 +64,7 @@ const maravillaProperties: MaravillaProperty[] = [
     address: "789 Canyon Ridge Court",
     status: "pending",
     image: "/api/placeholder/400/300",
-    features: ["High Ceilings", "Premium Finishes", "Smart Home", "Pool Ready"],
+    features: ["High Ceilings", "Premium Finishes", "Smart Home", "Waves Ready"],
     description: "Executive-level home with premium finishes and smart home technology.",
     yearBuilt: 2024,
     lotSize: "8,100 sq ft",

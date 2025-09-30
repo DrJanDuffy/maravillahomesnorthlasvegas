@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "chrome": 80,
+    "firefox": 75,
+    "safari": 13,
+    "edge": 80
+  },
+  "minify": true,
+  "sourceMap": false,
+  "drafts": {
+    "customMedia": true,
+    "nesting": true
+  }
+}

@@ -22,7 +22,7 @@ import {
   Wifi,
   Shield,
   Dumbbell,
-  Pool,
+  Waves,
   Coffee,
   ShoppingBag,
   GraduationCap,

@@ -22,7 +22,7 @@ import {
   Wifi,
   Shield,
   Dumbbell,
-  Pool,
+  Waves,
   Coffee,
   ShoppingBag,
   GraduationCap,
@@ -100,7 +100,7 @@ const virtualTours: VirtualTour[] = [
     description: "High-quality photo gallery showcasing community amenities including pool, fitness center, and walking trails.",
     propertyId: "community",
     features: ["High-Res Photos", "Zoom Functionality", "Amenity Details", "Community Life"],
-    rooms: ["Pool Complex", "Fitness Center", "Walking Trails", "Game Room"],
+    rooms: ["Waves Complex", "Fitness Center", "Walking Trails", "Game Room"],
     isInteractive: true,
     quality: "4K"
   },
@@ -388,7 +388,7 @@ export function MaravillaVirtualTours() {
             
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {[
-                { name: "Resort-Style Pool", icon: Pool, description: "Olympic-sized pool with cabanas" },
+                { name: "Resort-Style Waves", icon: Waves, description: "Olympic-sized pool with cabanas" },
                 { name: "Fitness Center", icon: Dumbbell, description: "State-of-the-art gym equipment" },
                 { name: "Walking Trails", icon: TreePine, description: "Beautiful nature trails" },
                 { name: "Game Room", icon: Gamepad2, description: "Entertainment and recreation" },
