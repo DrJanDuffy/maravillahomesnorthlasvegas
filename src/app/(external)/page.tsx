@@ -164,7 +164,7 @@ export default function Home() {
                 Get Your <span className="text-green-600">Home Valuation</span>
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Discover your home's current market value with our free, professional valuation service. 
+                Discover your home&apos;s current market value with our free, professional valuation service. 
                 Get accurate insights based on recent sales and market trends in your area.
               </p>
             </div>
