@@ -1,6 +1,15 @@
-import { redirect } from "next/navigation";
+import { HeroSection } from "@/components/hero-section"
+import { HomeListings } from "@/components/home-listings"
+import { CommunityFeatures } from "@/components/community-features"
+import { ContactForm } from "@/components/contact-form"
 
 export default function Home() {
-  redirect("/dashboard/default");
-  return <>Coming Soon</>;
+  return (
+    <main>
+      <HeroSection />
+      <HomeListings />
+      <CommunityFeatures />
+      <ContactForm />
+    </main>
+  )
 }

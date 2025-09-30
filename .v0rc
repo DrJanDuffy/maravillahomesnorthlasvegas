@@ -1,0 +1,11 @@
+{
+  "projectName": "villages-at-tule-springs-homes-by-dr-jan-duffy",
+  "framework": "next",
+  "uiLibrary": "shadcn",
+  "componentsPath": "src/components",
+  "utilsPath": "src/lib/utils",
+  "cssPath": "src/app/globals.css",
+  "tailwindConfig": "tailwind.config.js",
+  "typescript": true,
+  "appRouter": true
+}

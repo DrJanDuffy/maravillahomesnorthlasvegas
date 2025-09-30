@@ -1,43 +1,28 @@
-# Next.js Admin Template with TypeScript & Shadcn UI
+# Villages At Tule Springs | Homes By Dr. Jan Duffy
 
-Includes multiple dashboards, authentication layouts, customizable theme presets, and more.
+A modern real estate website built with Next.js, featuring beautiful home listings and community information for Villages At Tule Springs.
 
 <img src="https://github.com/arhamkhnz/next-shadcn-admin-dashboard/blob/main/media/dashboard.png?version=4" alt="Dashboard Screenshot">
 
-The idea behind this dashboard aims to offer an alternative to typical admin templates. Most I came across, paid or free, felt cluttered, outdated, or too rigid in design.
+This website showcases the beautiful homes and community features of Villages At Tule Springs, developed by Dr. Jan Duffy. Experience modern living in North Las Vegas with our thoughtfully designed homes and amenities.
 
-I’ve taken design inspiration from various sources. Feel free to open an issue or reach out for credits.
-
-> **View demo:** [studio admin](https://next-shadcn-admin-dashboard.vercel.app)
+> **View website:** [Villages At Tule Springs](https://villages-at-tule-springs.vercel.app)
 
 > [!TIP]
 > I’m also working on Nuxt.js, Svelte, and React (Vite + TanStack Router) versions of this dashboard. They’ll be live soon.
 
 ## Features
 
-- Built with Next.js 15, TypeScript, and Shadcn UI
-- Responsive and mobile-friendly design
-- Customizable theme presets (light/dark modes with color schemes like Tangerine, Brutalist, and more)
-- Multiple layout options (collapsible sidebar, content width variations)
-- Authentication layouts and screens
-- Dashboard screens for analytics, reports, and overview
-- Prebuilt dashboard screens and reusable UI components  
-- Includes 5 out of 15 planned screens
-- RBAC (Role-Based Access Control) with config-driven UI and multi-tenant support *(planned)*
+- Modern, responsive website design
+- Beautiful home galleries and virtual tours
+- Community information and amenities
+- Contact forms and inquiry system
+- Mobile-friendly interface
+- Fast loading and optimized performance
 
-> [!NOTE]
-> The default version of the dashboard uses the **shadcn neutral** theme.  
-> It also supports multiple color themes inspired by [Tweakcn](https://tweakcn.com), including:
->
-> - Tangerine  
-> - Neo Brutalism  
-> - Soft Pop  
->
-> You can add more presets by following the same structure as the existing ones.
+## About Villages At Tule Springs
 
-> Looking for the **Next.js 14 + Tailwind CSS v3** version?
-> Check out the [`archive/next14-tailwindv3`](https://github.com/arhamkhnz/next-shadcn-admin-dashboard/tree/archive/next14-tailwindv3) branch.  
-> It uses a different color theme and isn’t actively maintained, but I’m trying to keep it updated with the latest changes and screens.
+Located in North Las Vegas, Villages At Tule Springs offers modern, energy-efficient homes designed for contemporary living. Dr. Jan Duffy has created a community that combines comfort, style, and sustainability.
 
 ## Tech Stack
 
