@@ -25,6 +25,7 @@ export function HeroSection() {
               <p className="text-xl text-gray-600 leading-relaxed">
                 Discover modern, energy-efficient homes designed for contemporary living. 
                 Experience the perfect blend of comfort, style, and sustainability in North Las Vegas.
+                Contact Dr. Jan Duffy for personalized assistance.
               </p>
             </div>
             

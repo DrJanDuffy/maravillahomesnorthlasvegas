@@ -93,7 +93,7 @@ export function ContactForm() {
               <CardContent>
                 <div className="space-y-2">
                   <p className="font-semibold">General Inquiries</p>
-                  <p className="text-gray-600">info@villagesattulesprings.com</p>
+                  <p className="text-gray-600">DrDuffySells@VillagesTuleSprings.com</p>
                   <p className="text-sm text-gray-500">We'll respond within 24 hours</p>
                 </div>
               </CardContent>

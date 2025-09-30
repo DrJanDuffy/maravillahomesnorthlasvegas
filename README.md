@@ -1,6 +1,6 @@
 # Villages At Tule Springs | Homes By Dr. Jan Duffy
 
-A modern real estate website built with Next.js, featuring beautiful home listings and community information for Villages At Tule Springs.
+A modern real estate website built with Next.js, featuring beautiful home listings and community information for Villages At Tule Springs. Contact Dr. Jan Duffy at DrDuffySells@VillagesTuleSprings.com for personalized assistance.
 
 <img src="https://github.com/arhamkhnz/next-shadcn-admin-dashboard/blob/main/media/dashboard.png?version=4" alt="Dashboard Screenshot">
 
