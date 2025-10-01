@@ -1,3 +1,4 @@
+/// <reference types="../../types/global.d.ts" />
 import { MaravillaHeroSection } from "@/components/maravilla-hero-section"
 
 const structuredData = {

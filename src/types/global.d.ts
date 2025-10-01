@@ -1,15 +1,13 @@
-/// <reference types="react" />
-
 declare global {
   namespace JSX {
     interface IntrinsicElements {
-      'realscout-advanced-search': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & {
+      'realscout-advanced-search': {
         'agent-encoded-id': string;
       };
-      'realscout-simple-search': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & {
+      'realscout-simple-search': {
         'agent-encoded-id': string;
       };
-      'realscout-office-listings': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & {
+      'realscout-office-listings': {
         'agent-encoded-id': string;
         'sort-order'?: string;
         'listing-status'?: string;
@@ -17,13 +15,13 @@ declare global {
         'price-min'?: string;
         'price-max'?: string;
       };
-      'realscout-your-listings': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & {
+      'realscout-your-listings': {
         'agent-encoded-id': string;
         'sort-order'?: string;
         'listing-status'?: string;
         'property-types'?: string;
       };
-      'realscout-home-value': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & {
+      'realscout-home-value': {
         'agent-encoded-id': string;
       };
     }
