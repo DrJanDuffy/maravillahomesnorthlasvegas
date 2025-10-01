@@ -1,4 +1,5 @@
-import { Metadata } from "next";
+import type { Metadata } from "next";
+import type { ReactElement } from "react";
 
 /**
  * Component for adding custom Open Graph meta tags to pages
@@ -67,7 +68,7 @@ export function OGMetaTags({
   latitude,
   longitude,
 }: OGMetaTagsProps) {
-  const metaTags: JSX.Element[] = [];
+  const metaTags: ReactElement[] = [];
 
   // Basic Open Graph tags
   if (title) metaTags.push(<meta key="og:title" property="og:title" content={title} />);
@@ -178,7 +179,7 @@ export function TwitterMetaTags({
   appUrlIpad,
   appUrlGoogleplay,
 }: TwitterMetaTagsProps) {
-  const metaTags: JSX.Element[] = [];
+  const metaTags: ReactElement[] = [];
 
   metaTags.push(<meta key="twitter:card" name="twitter:card" content={card} />);
   
