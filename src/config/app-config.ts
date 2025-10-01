@@ -26,6 +26,6 @@ export const APP_CONFIG = {
     location: "Las Vegas, Nevada",
     businessType: "Real Estate Agent",
     phone: "(702) 555-REALTOR",
-    email: "info@lasvegasrealestate.com"
+        email: "info@villagestulesprings.com"
   },
 };

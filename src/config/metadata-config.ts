@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { APP_CONFIG } from "./app-config";
 
 // Base URL for the website
-const baseUrl = 'https://lasvegasrealestate.com';
+const baseUrl = 'https://villagestulesprings.com';
 
 // Default Open Graph image configuration
 export const defaultOGImages = [

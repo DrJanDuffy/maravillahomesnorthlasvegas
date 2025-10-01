@@ -1,4 +1,3 @@
-/// <reference types="../../types/global.d.ts" />
 import { MaravillaHeroSection } from "@/components/maravilla-hero-section"
 
 const structuredData = {
@@ -6,9 +5,9 @@ const structuredData = {
   "@type": "RealEstateAgent",
   "name": "Dr. Janet Duffy",
   "description": "Expert Las Vegas real estate services with 15+ years experience",
-  "url": "https://lasvegasrealestate.com",
+      "url": "https://villagestulesprings.com",
   "telephone": "(702) 555-REALTOR",
-  "email": "info@lasvegasrealestate.com",
+      "email": "info@villagestulesprings.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "123 Main Street",
@@ -81,11 +80,11 @@ const structuredData = {
     "ratingValue": "4.9",
     "reviewCount": "200"
   },
-  "sameAs": [
-    "https://www.facebook.com/lasvegasrealestate",
-    "https://www.instagram.com/lasvegasrealtor",
-    "https://www.linkedin.com/in/drjanetduffy"
-  ]
+      "sameAs": [
+        "https://www.facebook.com/villagestulesprings",
+        "https://www.instagram.com/villagestulesprings",
+        "https://www.linkedin.com/in/drjanetduffy"
+      ]
 }
 
 export default function Home() {
