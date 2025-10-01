@@ -3,8 +3,8 @@
   "version": "2.0.0",
   "private": true,
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "lint:fix": "next lint --fix",
@@ -13,7 +13,7 @@
     "type-check": "tsc --noEmit",
     "prepare": "husky",
     "generate:presets": "tsx src/scripts/generate-theme-presets.ts",
-    "analyze": "ANALYZE=true vercel build",
+    "analyze": "ANALYZE=true next build",
     "validate:metadata": "tsx scripts/validate-metadata.ts"
   },
   "lint-staged": {
